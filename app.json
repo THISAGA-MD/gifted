@@ -23,12 +23,12 @@
       "value": "Gifted Tech"
     },
     "OWNER_NUMBER": {
-      "description": "+94 76 017 2671",
+      "description": "94 76 017 2671",
       "required": true,
       "value": "254762016957"
     },
     "SUDO_NUMBERS": {
-      "description": "+94 76 017 2671",
+      "description": "94 76 017 2671",
       "required": false,
       "value": "254762016957,254728746852,254742063632"
     },
