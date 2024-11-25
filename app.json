@@ -1,5 +1,5 @@
 {
-  "name": "gifted-md",
+  "name": "thisaga-md",
   "description": "I am Gifted-Md WhatsApp MultiDevice Bot built in NodeJs to enhance the experience",
   "website": "https://session.giftedtech.my.id",
   "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
@@ -23,12 +23,12 @@
       "value": "Gifted Tech"
     },
     "OWNER_NUMBER": {
-      "description": "Put Owner Number Here",
+      "description": "94719357076",
       "required": true,
       "value": "254762016957"
     },
     "SUDO_NUMBERS": {
-      "description": "Put Sudo Numbers separated by comma Here. Sudos are limited to owner commands else leave blank",
+      "description": "94719357076",
       "required": false,
       "value": "254762016957,254728746852,254742063632"
     },
