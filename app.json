@@ -9,13 +9,13 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Gifted~2mhiERDJ#pn1G1W5Xq8MDKkYq9mQjHhJCaWe0zkaC524Q1nQ6DM8",
+      "description": "Gifted~H6InnDJI#-yhetEPEKMGdCF50f8ILdmMoTc2CFlIiVnZ7X6E1QpY",
       "required": true
     },
     "MODE": {
       "description": "set Mode  to public or private",
       "required": false,
-      "value": "private"
+      "value": "public"
     },
     "OWNER_NAME": {
       "description": "THISAGA-Md",
@@ -23,12 +23,12 @@
       "value": "Gifted Tech"
     },
     "OWNER_NUMBER": {
-      "description": "94719357076",
+      "description": "+94 76 017 2671",
       "required": true,
       "value": "254762016957"
     },
     "SUDO_NUMBERS": {
-      "description": "94719357076",
+      "description": "+94 76 017 2671",
       "required": false,
       "value": "254762016957,254728746852,254742063632"
     },
