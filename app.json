@@ -9,7 +9,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Gifted~H6InnDJI#-yhetEPEKMGdCF50f8ILdmMoTc2CFlIiVnZ7X6E1QpY",
+      "description": "Gifted~n7g3mB6B#7WTzz6oBeiz4bi3FfPqzHhqOLgeD-BVP3vf0w3T3Zig",
       "required": true
     },
     "MODE": {
@@ -23,12 +23,12 @@
       "value": "Gifted Tech"
     },
     "OWNER_NUMBER": {
-      "description": "94 76 017 2671",
+      "description": "94719357076",
       "required": true,
       "value": "254762016957"
     },
     "SUDO_NUMBERS": {
-      "description": "94 76 017 2671",
+      "description": "94719357076",
       "required": false,
       "value": "254762016957,254728746852,254742063632"
     },
